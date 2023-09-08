@@ -1,4 +1,4 @@
 # calculator
 
 
-https://chidozie222.github.io/calculator.io/
+https://chidozie222.github.io/calculator/
